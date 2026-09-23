@@ -33,7 +33,7 @@ This repository contains solutions to the five mandatory HackerRank problems for
 Calculates the absolute difference between the primary and secondary diagonal sums of a square matrix.
 
 **Solution:**  
-[View Solution]https://github.com/pranaykamkar21/hackerrank-3rd-Sem_pb/blob/main/diagonal-difference/soultions.c
+https://github.com/pranaykamkar21/hackerrank-3rd-Sem_pb/blob/main/diagonal-difference/soultions.c
 
 ---
 
