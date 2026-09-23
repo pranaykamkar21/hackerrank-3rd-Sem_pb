@@ -88,7 +88,7 @@ https://github.com/pranaykamkar21/hackerrank-3rd-Sem_pb/blob/main/Time-conversio
 https://github.com/pranaykamkar21/hackerrank-3rd-Sem_pb/blob/main/Compare-the-triplets/Compare_the_triplets.png
 
 ### Sparse Arrays
-[Add your Accepted screenshot here.](https://github.com/pyatigoudruyashwanth-hue/HackerRank-3rdSem-Portfolio/blob/main/Sparse-Arrays/sparse-arrays.png)
+https://github.com/pranaykamkar21/hackerrank-3rd-Sem_pb/blob/main/Sparse-arrays/Sparse_arrays.png
 
 ---
 
