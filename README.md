@@ -69,7 +69,7 @@ https://github.com/pranaykamkar21/hackerrank-3rd-Sem_pb/blob/main/Compare-the-tr
 Counts the occurrences of query strings in the given list of strings.
 
 **Solution:**  
-[View Solution](./Sparse-Arrays/solution.c)
+https://github.com/pranaykamkar21/hackerrank-3rd-Sem_pb/blob/main/Sparse-arrays/solutions.c
 
 ---
 
