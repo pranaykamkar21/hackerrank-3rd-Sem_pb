@@ -42,7 +42,7 @@ https://github.com/pranaykamkar21/hackerrank-3rd-Sem_pb/blob/main/diagonal-diffe
 Uses dynamic sequences and XOR-based indexing to process queries.
 
 **Solution:**  
-[View Solution](./Dynamic-Array/solution.c)
+https://github.com/pranaykamkar21/hackerrank-3rd-Sem_pb/blob/main/dynamic-arrays/solutions.c
 
 ---
 
