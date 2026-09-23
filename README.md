@@ -82,7 +82,7 @@ https://github.com/pranaykamkar21/hackerrank-3rd-Sem_pb/blob/main/diagonal-diffe
 https://github.com/pranaykamkar21/hackerrank-3rd-Sem_pb/blob/main/dynamic-arrays/dynamic_array.png
 
 ### Time Conversion
-[Add your Accepted screenshot here.](https://github.com/pyatigoudruyashwanth-hue/HackerRank-3rdSem-Portfolio/blob/main/Time-Conversion/time-conversion.png)
+https://github.com/pranaykamkar21/hackerrank-3rd-Sem_pb/blob/main/Time-conversion/Time_conversion.png
 
 ### Compare the Triplets
 [Add your Accepted screenshot here](https://github.com/pyatigoudruyashwanth-hue/HackerRank-3rdSem-Portfolio/blob/main/Compare-the-Triplets/compare-triplets.png)
