@@ -60,7 +60,7 @@ https://github.com/pranaykamkar21/hackerrank-3rd-Sem_pb/blob/main/Time-conversio
 Compares Alice's and Bob's scores element by element and calculates their scores.
 
 **Solution:**  
-[View Solution](./Compare-the-Triplets/solution.c)
+https://github.com/pranaykamkar21/hackerrank-3rd-Sem_pb/blob/main/Compare-the-triplets/solutions.c
 
 ---
 
