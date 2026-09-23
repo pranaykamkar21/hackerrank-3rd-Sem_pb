@@ -51,7 +51,7 @@ https://github.com/pranaykamkar21/hackerrank-3rd-Sem_pb/blob/main/dynamic-arrays
 Converts a 12-hour AM/PM time format into 24-hour format.
 
 **Solution:**  
-[View Solution](./Time-Conversion/solution.c)
+https://github.com/pranaykamkar21/hackerrank-3rd-Sem_pb/blob/main/Time-conversion/solutions.c
 
 ---
 
