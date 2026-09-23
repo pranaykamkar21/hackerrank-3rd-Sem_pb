@@ -76,7 +76,7 @@ https://github.com/pranaykamkar21/hackerrank-3rd-Sem_pb/blob/main/Sparse-arrays/
 ## HackerRank Submission Screenshots
 
 ### Diagonal Difference
-[Add your Accepted screenshot here.](https://github.com/pyatigoudruyashwanth-hue/HackerRank-3rdSem-Portfolio/blob/main/Diagonal-Difference/diagonal-difference.png)
+https://github.com/pranaykamkar21/hackerrank-3rd-Sem_pb/blob/main/diagonal-difference/diagonal_difference.png
 
 ### Dynamic Array
 https://github.com/pranaykamkar21/hackerrank-3rd-Sem_pb/blob/main/dynamic-arrays/dynamic_array.png
