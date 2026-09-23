@@ -85,7 +85,7 @@ https://github.com/pranaykamkar21/hackerrank-3rd-Sem_pb/blob/main/dynamic-arrays
 https://github.com/pranaykamkar21/hackerrank-3rd-Sem_pb/blob/main/Time-conversion/Time_conversion.png
 
 ### Compare the Triplets
-[Add your Accepted screenshot here](https://github.com/pyatigoudruyashwanth-hue/HackerRank-3rdSem-Portfolio/blob/main/Compare-the-Triplets/compare-triplets.png)
+https://github.com/pranaykamkar21/hackerrank-3rd-Sem_pb/blob/main/Compare-the-triplets/Compare_the_triplets.png
 
 ### Sparse Arrays
 [Add your Accepted screenshot here.](https://github.com/pyatigoudruyashwanth-hue/HackerRank-3rdSem-Portfolio/blob/main/Sparse-Arrays/sparse-arrays.png)
