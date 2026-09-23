@@ -93,9 +93,9 @@ https://github.com/pranaykamkar21/hackerrank-3rd-Sem_pb/blob/main/Sparse-arrays/
 ---
 
 ## HackerRank Badge
+https://github.com/pranaykamkar21/hackerrank-3rd-Sem_pb/blob/main/hackerrank.png
 
-[Add your HackerRank badge screenshot here.](https://github.com/pyatigoudruyashwanth-hue/HackerRank-3rdSem-Portfolio/blob/main/hackerRank_badge.png)
-
+***
 ---
 
 ## Conclusion
